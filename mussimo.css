@@ -1,0 +1,413 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway:wght@600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", sans-serif;
+  color: #ffffff;
+}
+.mussimo-dutti-logo {
+  background-image: url(./image/1.jpeg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 300px;
+  height: 230px;
+  margin-top: 50px;
+  margin-left: 550px;
+}
+.looks-in-paris {
+  margin-top: 30px;
+}
+.looks-in-paris-image {
+  background-image: url(./image/2.jpeg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 655px;
+  padding: 0.1px;
+}
+.looks-in-paris-text {
+  margin-top: 500px;
+  text-align: center;
+}
+.looks-in-paris-text-1 {
+  font-size: 70px;
+}
+.looks-in-paris-text-2 {
+  font-size: 18px;
+  font-family: Roboto, sans-serif;
+  word-spacing: 3px;
+  margin-top: 15px;
+}
+.collection-no-1 {
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+.collection-no-1-bg-1 {
+  background-color: #d9d9d9;
+  width: 428px;
+  height: 474px;
+  padding: 0.1px;
+}
+.collection-no-1-image-1 {
+  background-image: url(./image/3.jpeg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 460px;
+  height: 526px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.collection-no-1-text {
+  color: black;
+  margin-top: 150px;
+  margin-left: 10px;
+}
+.collection-no-1-text-1 {
+  color: black;
+  font-size: 55px;
+}
+.collection-no-1-text-2 {
+  color: rgb(52, 52, 52);
+  margin-top: 15px;
+  font-size: 18px;
+}
+.collection-no-1-bg-2 {
+  background-color: #d2cfcf;
+  width: 6px;
+  height: 125px;
+  margin-top: -30px;
+  margin-left: 500px;
+}
+.collection-no-2 {
+  position: absolute;
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.collection-no-2-bg-1 {
+  background-color: #d79783;
+  width: 6px;
+  height: 100px;
+}
+.collection-no-2-text {
+  display: inline-block;
+  color: black;
+  margin-top: -300px;
+}
+.collection-no-2-text-1 {
+  position: relative;
+  top: -33px;
+  display: inline-block;
+  color: black;
+  font-size: 22px;
+  margin-left: 32px;
+  font-family: Georgia, serif !important;
+  font-style: italic;
+}
+.collection-no-2-bg-2 {
+  background-color: #ddaf96;
+  width: 428px;
+  height: 474px;
+  margin-top: 50px;
+  margin-left: 170px;
+  padding: 0.1px;
+}
+.collection-no-2-image-1 {
+  background-image: url(./image/4.jpeg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 380px;
+  height: 548px;
+  margin-top: 80px;
+  margin-left: -40px;
+}
+.costumes-text {
+  margin-top: 140px;
+  text-align: center;
+}
+.costumes-text-1 {
+  color: rgb(19, 19, 19);
+  font-size: 60px;
+  font-family: "Times New Roman", Times, serif;
+}
+.costumes-image-1 {
+  margin-top: 7 0px;
+}
+
+.costumes-img-1 {
+  display: inline-block;
+  background-image: url(./image/5.jpeg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 461px;
+  height: 688px;
+  margin-left: 5px;
+}
+
+.costumes-img-2 {
+  display: inline-block;
+  background-image: url(./image/6.jpeg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 461px;
+  height: 688px;
+  margin-left: 10px;
+}
+.costumes-img-3 {
+  display: inline-block;
+  background-image: url(./image/5.jpeg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 461px;
+  height: 688px;
+  margin-left: 10px;
+}
+.winter {
+  display: inline-block;
+  margin-top: 310px;
+  margin-left: 150px;
+}
+.winter-no-1-image-1 {
+  background-image: url(./image/7.jpeg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 413px;
+  height: 526px;
+  padding: 0.1px;
+  margin-top: -383px;
+  margin-left: -90px;
+}
+.winter-no-1-bg-1 {
+  background-color: #d9d9d9;
+  position: absolute;
+  width: 382px;
+  height: 182px;
+  margin-left: 100px;
+  margin-top: 200px;
+}
+.winter-no-1-text {
+  position: absolute;
+  margin-top: 430px;
+  margin-left: 50px;
+}
+.winter-no-1-text-1 {
+  color: rgb(42, 41, 41);
+  font-size: 19px;
+  font-style: italic;
+  line-height: 25px;
+}
+.winter-no-1-link-1 {
+  position: absolute;
+  color: rgb(42, 41, 41);
+  margin-top: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 18px;
+}
+.winter-no-2 {
+  display: inline-block;
+  margin-left: 600px;
+}
+.winter-no-2-text {
+  margin-left: 1 00px;
+}
+.winter-no-2-text-1 {
+  color: black;
+  font-size: 50px;
+}
+.winter-no-2-bg-1 {
+  background-color: #ddaf96;
+  width: 428px;
+  height: 474px;
+  margin-top: 70px;
+  padding: 0.1px;
+}
+.winter-no-2-image-1 {
+  background-image: url(./image/8.jpeg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 500px;
+  height: 548px;
+  margin-top: 55px;
+  margin-left: 65px;
+}
+.paper-image {
+  background-image: url(./image/9.jpeg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 656px;
+  margin-top: 200px;
+  padding: 0.1px;
+}
+.paper-text-1 {
+  text-align: center;
+  margin-top: 300px;
+  font-size: 55px;
+  margin-left: -100px;
+}
+.handbags-no-1 {
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 150px;
+}
+.handbags-no-1-bg-1 {
+  background-color: #ddaf96;
+  width: 428px;
+  height: 474px;
+  padding: 0.1px;
+}
+.handbags-no-1-image {
+  background-image: url(./image/10.jpeg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 467px;
+  height: 526px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.handbags-no-1-text {
+  margin-top: 150px;
+  margin-left: 100px;
+}
+.handbags-no-1-text-1 {
+  color: rgb(44, 44, 44);
+  font-size: 45px;
+}
+.handbags-no-1-text-2 {
+  color: rgb(44, 44, 44);
+  margin-top: 15px;
+  font-size: 17px;
+}
+.handbags-no-2 {
+  position: absolute;
+  display: inline-block;
+  margin-left: 150px;
+  margin-top: 100px;
+}
+.handbags-no-2-text {
+  color: black;
+}
+.handbags-no-2-text-1 {
+  color: black;
+  font-size: 55px;
+  font-family: "Times New Roman", Times, serif;
+}
+.handbags-no-2-text-2 {
+  color: rgb(62, 62, 62);
+  margin-top: 25px;
+  line-height: 30px;
+  font-style: italic;
+  font-size: 18px;
+}
+.handbags-no-2-bg-1 {
+  background-color: #d9d9d9;
+  width: 428px;
+  height: 474px;
+  margin-left: 150px;
+  margin-top: 50px;
+  padding: 0.1px;
+}
+.handbags-no-2-image-1 {
+  background-image: url(./image/11.jpeg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 438px;
+  height: 605px;
+  margin-left: -70px;
+  margin-top: 54px;
+}
+.boys-girls-bg-1 {
+  background-color: #f9efeb;
+  width: 100%;
+  height: 850px;
+  margin-top: 300px;
+  padding: 0.1px;
+}
+.boys-girls-text {
+  text-align: center;
+  margin-top: 90px;
+}
+.boys-girls-text-1 {
+  color: black;
+  font-size: 55px;
+}
+.boys-girls-image {
+  margin-top: 50px;
+  margin-left: 150px;
+}
+
+.boys-girls-img-1 {
+  display: inline-block;
+  background-image: url(./image/12.jpeg);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 560px;
+  height: 581px;
+}
+.boys-girls-img-2 {
+  display: inline-block;
+  background-image: url(./image/13.jpeg);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 560px;
+  height: 581px;
+  margin-left: 15px;
+}
+.mussimo-dutti-logo-2 {
+  background-image: url(./image/14.jpeg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 300px;
+  height: 230px;
+  margin-top: 20px;
+  margin-left: 570px;
+}
+.our-shop {
+  margin-top: 0px;
+}
+.our-shop-image {
+  background-image: url(./image/16.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 655px;
+}
+.Template-bg {
+  background-color: #333333;
+  margin-top: 5px;
+  width: 100%;
+  height: 97px;
+  padding: 0.1px;
+}
+.Template-text {
+  text-align: center;
+  margin-top: 47px;
+  font-size: 12px;
+}
+.Template {
+  color: #c67258;
+  font-size: 15px;
+}
+.Nicepage {
+  color: #c67258;
+  font-size: 15px;
+}
